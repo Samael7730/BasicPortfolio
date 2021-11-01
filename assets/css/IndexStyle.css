@@ -1,0 +1,137 @@
+header{
+  width: 250px;
+  height: 75px;
+  background-color: #4aaaa5;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  padding-top: 35px;
+  margin-left: 300px;
+  font-weight: bold;
+}
+
+.container{
+  display: flex;
+  width: 350px;
+  height: 110px;
+  margin-left: 1000px;
+  margin-top: -112px;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 15px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.link{
+  text-decoration: none;
+  color: #777777;
+}
+
+
+
+#border{
+  border: 1px solid #cccccc;
+}
+
+.container2{
+  border: 1px solid black;
+  width: 700px;
+  height: 500px;
+  margin-left: 300px;
+  margin-top: 35px;
+  border: 1px solid #cccccc;
+}
+
+#about{
+  margin-left: 20px;
+  padding-top: 20px;
+  font-weight: bold;
+  font-size: 20px;
+  color: #4aaaa5;
+}
+
+#border2{
+  border: 1px solid black;
+  margin-top: 20px;
+  width: 650px;
+  margin-left: 20px;
+  border: 1px solid #cccccc;
+}
+
+#image{
+  padding-top: 20px;
+  padding-left: 20px;
+  display: inline-block;
+  
+}
+
+p{
+  padding-top: 20px;
+  padding-right: 20px;
+  float: right;
+  width: 500px;
+  text-align: justify;
+  font-size: 15px;
+  color: #777777;
+ 
+}
+
+#p2{
+  clear: both;
+  width: 650px;
+  text-align: left;
+  font-size: 15px;
+  color: #777777;
+}
+
+.container3{
+  border: 1px solid #cccccc;
+  width: 300px;
+  height: 150px;
+  position: absolute;
+  right: 600px;
+  top: 148px;
+  text-align: center;
+  padding-top: 20px;
+  
+
+}
+
+#connect{
+  padding-bottom: 25px;
+  color: #4aaaa5;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+#gmail + #facebook{
+  margin-left: 20px;
+  
+}
+
+#facebook + #twitter{
+  margin-left: 20px;
+}
+
+#border3{
+  margin-top: 20px;
+  height: 10px;
+  background-color: #4aaaa5;
+}
+
+footer{
+  color: white;
+  height: 100px;
+  background-color: #777777;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-image: url(../images/watercolor.png);
+}
+
+
