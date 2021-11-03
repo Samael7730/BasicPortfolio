@@ -1,3 +1,9 @@
+#placeholder{
+  width: 100%;
+  height: 20%;
+  background-color: white;
+}
+
 header{
     width: 250px;
     height: 75px;
@@ -21,6 +27,7 @@ header{
     justify-content: space-evenly;
     font-size: 15px;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
   }
   
   .link{
@@ -45,11 +52,9 @@ header{
     border: 1px solid #cccccc;
     height: 900px;
     width: 730px;
+    background-color: white;
 }
 
-.flexitem{
-    display: flex;
-}
 
 #portfolio{
     color: #4aaaa5;
@@ -145,8 +150,7 @@ header{
     top: 136px;
     text-align: center;
     padding-top: 20px;
-    
-  
+    background-color: white;
   }
   
   #connect{
@@ -158,7 +162,6 @@ header{
   
   #gmail + #facebook{
     margin-left: 20px;
-    
   }
   
   #facebook + #twitter{
