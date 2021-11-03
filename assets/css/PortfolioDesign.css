@@ -81,11 +81,11 @@ header{
 }
 
 #HM{
-    width: 149px;
+    width: 200px;
     height: 30px;
     position: absolute;
-    left: 379px;
-    top: 310px;
+    left: 344px;
+    top: 350px;
     color: white;
     background-color: #4aaaa5;
     text-align: center;
@@ -94,23 +94,23 @@ header{
 
 #RSP{
     position: absolute;
-    right: 950px;
-    top: 325px;
+    right: 915px;
+    top: 355px;
     background-color: #4aaaa5;
-    height: 25px;
+    height: 30px;
     color: white;
     text-align: center;
     padding-top: 10px;
-    width: 149px;
+    width: 200px;
 }
 
 #RPG{
     position: absolute;
-    top: 565px;
-    left: 378px;
+    top: 650px;
+    left: 345px;
     color: white;
     background-color: #4aaaa5;
-    width: 150px;
+    width: 200px;
     height: 30px;
     text-align: center;
     padding-top: 15px;
@@ -118,11 +118,11 @@ header{
 
 #RIW{
     position: absolute;
-    left: 804px;
-    top: 560px;
+    left: 788px;
+    top: 650px;
     color: white;
     background-color: #4aaaa5;
-    width: 150px;
+    width: 200px;
     height: 35px;
     text-align: center;
     padding-top: 15px;
@@ -130,11 +130,11 @@ header{
 
 #TG{
     position: absolute;
-    top: 815px;
-    left: 590px;
+    top: 950px;
+    left: 566px;
     color: white;
     background-color: #4aaaa5;
-    width: 150px;
+    width: 200px;
     height: 30px;
     text-align: center;
     padding-top: 15px;
