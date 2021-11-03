@@ -101,14 +101,12 @@ textarea{
     border: 1px solid #cccccc;
     width: 300px;
     height: 150px;
-    position: absolute;
-    right: 500px;
-    top: 140px;
+    float: right;
+    margin-top: -501px;
+    margin-right: 500px;
     text-align: center;
     padding-top: 20px;
     background-color: white;
-    
-  
   }
   
   #connect{
